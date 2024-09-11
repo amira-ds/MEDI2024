@@ -15,13 +15,6 @@ We then applied four forecasting models—Vector Autoregression (VAR), Multiple 
 - Prophet Library
 - Tensorflow Library
 - statsmodels Library
-  ![logo-python](https://github.com/user-attachments/assets/fe33d995-f781-44fb-bbae-8cb1bb38b829)width="400" height="300"/
-![formation-tensorflow-1024x453](https://github.com/user-attachments/assets/0d983173-7455-4a75-9423-fdf9690bdabb)width="400" height="300"/
-![Scikit_learn_logo_small svg](https://github.com/user-attachments/assets/0b70ad5f-5764-4854-8fe9-0960b23138c1) width="400" height="300"/
-
-<img src="https://Scikit_learn_logo_small svg" alt="Sample Image" width="400">
-<img src="https://logo-python alt="Sample Image" width="400">
-<img src="formation-tensorflow-1024x453 alt="Sample Image" width="400">
 
 ## Files Provided
 - **Datasets**: Available in the `CSV FILES/` zip folder, containing the `.cvf` files.
