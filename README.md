@@ -23,7 +23,8 @@ We then applied four forecasting models—Vector Autoregression (VAR), Multiple 
   - `MLR_model.ipynb` (Multiple Linear Regression)
   - `Prophet_model.ipynb` (Facebook Prophet)
   - `LSTM_model.ipynb` (Long Short-Term Memory)
-
-
-
-
+## Usage:
+- For example, to run the LSTM model:
+  1/ `LSTM_model.ipynb` in Google Colab.
+  2/ Upload the required .cvf file using the upload cell in Colab.
+  3/ Run the remaining cells to preprocess the data and apply the LSTM model.
