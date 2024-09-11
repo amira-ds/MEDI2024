@@ -1,10 +1,11 @@
 # Comparative Analysis of Multivariate Time Series Forecasting Methods for Modeling Plastic Extruder Behavior
+
 ## Description:
 We will provide experimental datasets due to the lack of public data in the plastics field. 
 As part of the \recyplast project, we developed a data acquisition protocol to study how extruder settings evolve over time when processing virgin and recycled polypropylene (PP). 
 The tests involved PP30, PP40, and PP89, both individually and in mixtures, selected for their chemical resistance and heat tolerance. 
 We then applied four forecasting models—Vector Autoregression (VAR), Multiple Linear Regression (MLR), Facebook Prophet, and Long Short-Term Memory (LSTM)—to these datasets and evaluated their forecasting capabilities. After applying these models, we compared their performance in modeling the behavior of the extruder.
-You can clone the repository: git clone git@github.com:amira-ds/MEDI2024.git
+
 ## Requirements ( !pip install library_name OR import library_name)
 - Python 3.x
 - Pandas Library
@@ -14,6 +15,7 @@ You can clone the repository: git clone git@github.com:amira-ds/MEDI2024.git
 - Prophet Library
 - Tensorflow Library
 - statsmodels Library
+- 
 ## Files Provided
 - **Datasets**: Available in the `CSV FILES/` zip folder, containing the `.cvf` files.
 - **Notebooks**: Colab notebooks for each forecasting model are available in the `notebooks/` folder.
