@@ -15,7 +15,11 @@ We then applied four forecasting models—Vector Autoregression (VAR), Multiple 
 - Prophet Library
 - Tensorflow Library
 - statsmodels Library
-  
+  ![logo-python](https://github.com/user-attachments/assets/fe33d995-f781-44fb-bbae-8cb1bb38b829)
+![formation-tensorflow-1024x453](https://github.com/user-attachments/assets/0d983173-7455-4a75-9423-fdf9690bdabb)
+![Scikit_learn_logo_small svg](https://github.com/user-attachments/assets/0b70ad5f-5764-4854-8fe9-0960b23138c1)
+
+
 ## Files Provided
 - **Datasets**: Available in the `CSV FILES/` zip folder, containing the `.cvf` files.
 - **Notebooks**: Colab notebooks for each forecasting model are available in the `notebooks/` folder.
